@@ -173,7 +173,7 @@
 .drifting-cursors{position:fixed;inset:0;z-index:9;overflow:hidden;pointer-events:none;user-select:none}
 .drifting-cursors *{pointer-events:none!important}
 .aero-cursor{position:absolute;top:0;left:0;display:block;width:30px;height:36px;
-  background:url('./assets/aero-cursor.svg') center/contain no-repeat;opacity:.72;
+  background:url('aero-cursor.svg') center/contain no-repeat;opacity:.72;
   filter:drop-shadow(0 4px 5px #566f9733);will-change:transform}
 .cursor-1{width:25px;height:30px;filter:hue-rotate(50deg) drop-shadow(0 4px 5px #566f9733)}
 .cursor-2{width:23px;height:28px;filter:hue-rotate(290deg) drop-shadow(0 4px 5px #566f9733)}
